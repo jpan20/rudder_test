@@ -1,4 +1,4 @@
-# rudder_test
+# Rudder Test
 
 # Contents
 
@@ -8,7 +8,7 @@
 
 # Wiring
 Rudder pins are connected to M1A M1B on roboclaw:
-<p align="center"><img src="https://user-images.githubusercontent.com/47678311/150372702-57bcd579-8339-47f3-b517-290cb1cb9419.jpeg"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/47678311/150372742-87883759-2e3b-4509-8113-fe85f6c1f0c5.jpeg"></p>
 
 Potentiometer green pin to EN1, orange pin to encoder power, black pin to ground :
 <p align="center"><img src="https://user-images.githubusercontent.com/47678311/150373292-7378792c-87cf-4b3a-83c0-51150ad1509f.jpeg"></p>
