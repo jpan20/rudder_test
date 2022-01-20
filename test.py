@@ -28,7 +28,7 @@ def gotoPos():
         I = 120
         D = 180
         maxI = 100
-        deadZone = 50
+        deadZone = 20
         minPos = 0
         maxPos = 2000
         rc.SetM1PositionPID(0x80, P, I, D, maxI, deadZone, minPos, maxPos)
